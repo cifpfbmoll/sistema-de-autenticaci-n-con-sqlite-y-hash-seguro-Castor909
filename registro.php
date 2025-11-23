@@ -17,6 +17,7 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
 ?>
 
 <form method="POST">
+  <br>
   Usuario: <input type="text" name="usuario" required><br>
   Contraseña: <input type="password" name="clave" required><br>
   <button type="submit">Registrar</button>
