@@ -45,12 +45,3 @@
 ## Resumen final
 - Los requisitos solicitados por el docente están implementados: creación de BD, registro seguro, login con verificación de hash y uso de PDO.
 - Además se añadieron validaciones, manejo de unicidad, y gestión de sesiones con páginas protegidas en español.
-
----
-
-Si quieres, puedo también:
-- añadir un script de prueba automatizado con `curl` y `sqlite3`;
-- preparar instrucciones para empaquetar o desplegar en Apache/Nginx;
-- o crear un pequeño vídeo/screenshot paso a paso para presentar al docente.
-
-Dime qué prefieres y lo hago.
