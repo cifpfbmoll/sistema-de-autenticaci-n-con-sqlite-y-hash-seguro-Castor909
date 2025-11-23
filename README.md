@@ -93,7 +93,7 @@ Además de los requisitos básicos, se implementaron las siguientes funcionalida
 
 ### Requisitos Previos
 
-- PHP 8.0 o superior
+- PHP 7.4 o superior (recomendado PHP 8.0+)
 - Extensión PDO SQLite habilitada
 - Servidor web (Apache, Nginx) o PHP built-in server
 
@@ -102,7 +102,7 @@ Además de los requisitos básicos, se implementaron las siguientes funcionalida
 1. **Clonar o descargar el proyecto**
    ```bash
    git clone <url-del-repositorio>
-   cd sistema-de-autenticacion
+   cd <nombre-del-directorio-clonado>
    ```
 
 2. **Crear la estructura de base de datos**
